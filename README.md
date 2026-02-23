@@ -16,8 +16,9 @@
 6. [User Journey Map](#user-journey-map)
    - [Maria's Journey](#scenario-maria-uses-the-health-companion-app)
    - [Daniel's Journey](#scenario-daniel-uses-the-health-companion-app)
-7. [Sketches, Wireframes & Prototype Design](#sketches-wireframes--prototype-design)
+7. [Sketches, Storyboard, Wireframes & Prototype Design](#sketches-wireframes--prototype-design)
    - [Sketches](#sketches)
+   - [Storyboard](#storyboard)
    - [Wireframes](#wireframes)
    - [Prototype](#prototype)
 8. [Usability Testing Plan](#usability-testing-plan)
@@ -261,7 +262,15 @@ Below are sketches for the Home page, Medication, Messages, and Schedule page.
 <img width="999" height="1005" alt="image" src="https://github.com/user-attachments/assets/ce461543-9991-4d7e-9eae-a21a6b79069c" />
 
 ---
+### Storyboard
+## Maria's Story
+<img width="1062" height="1000" alt="image" src="https://github.com/user-attachments/assets/19e2a91c-3f4c-46c7-b592-c10df3fb1427" />
 
+## Daniel's Story
+<img width="1016" height="1000" alt="image" src="https://github.com/user-attachments/assets/9a74ece4-bc13-46d8-942c-93dc24fc4938" />
+
+
+---
 ### Wireframes
 
 **Key Screens Designed:**
