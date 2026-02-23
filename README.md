@@ -1,6 +1,29 @@
-# NNLNoah.github.io
-
 ## Case Study: UX/UI Design of a Health Companion Super App
+
+## 📑 Table of Contents
+
+1. [Purpose of This Case Study](#purpose-of-this-case-study)
+2. [The Problem](#the-problem)
+3. [The Goal](#the-goal)
+4. [User Research Discovery](#user-research-discovery)
+   - [Research Strategy](#research-strategy)
+   - [Online Survey](#online-survey)
+   - [Semi-structured Interviews](#semi-structured-interviews)
+   - [Research Focus](#research-focus)
+5. [User Personas](#user-personas)
+   - [Persona 1: Maria Thompson](#persona-1-maria-thompson)
+   - [Persona 2: Daniel Lee](#persona-2-daniel-lee)
+6. [User Journey Map](#user-journey-map)
+   - [Maria's Journey](#scenario-maria-uses-the-health-companion-app)
+   - [Daniel's Journey](#scenario-daniel-uses-the-health-companion-app)
+7. [Sketches, Wireframes & Prototype Design](#sketches-wireframes--prototype-design)
+   - [Sketches](#sketches)
+   - [Wireframes](#wireframes)
+   - [Prototype](#prototype)
+8. [Usability Testing Plan](#usability-testing-plan)
+9. [Reflection](#reflection)
+   - [How the UX Process Helped](#how-the-ux-process-helped)
+   - [Challenges Encountered and How I Addressed Them](#challenges-encountered-and-how-i-addressed-them)
 
 ### Purpose of This Case Study
 
