@@ -255,9 +255,10 @@ Long Term → Motivated and in control
 
 ### Sketches
 
-Below are sketches for the Home page and for the Messages page
+Below are sketches for the Home page, Medication, Messages, and Schedule page.
 
 ![Sketches](https://github.com/user-attachments/assets/c4e3fc0f-948d-4d24-b940-f8cddc8ac2e9)
+<img width="999" height="1005" alt="image" src="https://github.com/user-attachments/assets/ce461543-9991-4d7e-9eae-a21a6b79069c" />
 
 ---
 
